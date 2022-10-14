@@ -10,11 +10,12 @@ Open Source Contributor
 * 🤝  I'm open to collaborating on Kubescape ,Kubernetes and Golang Projects.
 * ⚡  I'm an introvert but selectively extrovert.
 
-<a href="https://www.twitter.com/shivanitstwt" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/shivanitstwt?logo=twitter&style=for-the-badge&color=ffffff&labelColor=1c1917"
+<a href="https://www.twitter.com/shivanistwt" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/shivanistwt?logo=twitter&style=for-the-badge&color=ffffff&labelColor=1c1917"
 /></a>
 
 ### Skills
+
 
 <p align="left">
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
@@ -24,7 +25,7 @@ src="https://img.shields.io/twitter/follow/shivanitstwt?logo=twitter&style=for-t
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/Shivani Tiwari#4856" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/shivanii1702" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/shivani-tiwari-184886216/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/shivanitstwt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/Shivani Tiwari#4856" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/shivanii1702" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://shivaniii.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/shivani-tiwari-184886216/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/shivanistwt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
