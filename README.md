@@ -5,7 +5,7 @@ Open Source Contributor
 -----------------------
 
 * 🌍  I'm based in Indore, India
-* ✉️  You can contact me at [shivanishinu05@gmail.com](mailto:shivanishinu05@gmail.com)
+* ✉️  You can contact me at [shivanitiwari.17@gmail.com](mailto:shivanishinu05@gmail.com)
 * 🧠  I'm learning DevOps and Cloud.
 * 🤝  I'm open to collaborating on Kubescape ,Kubernetes and Golang Projects.
 * ⚡  I'm an introvert but selectively extrovert.
